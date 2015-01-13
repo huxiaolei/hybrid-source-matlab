@@ -1,6 +1,6 @@
 # Readme
 
-This project is to create a GUI and Simulink model by using MPC (Model Predictive Control) for a hybrid energy storage system consisting Battery and Ultra-capacitor. THe work is published on Power Electronics and ECCE Asia (ICPE & ECCE), 8th IEEE International Conference. The paper is accessible through IEEE Explorer from [here]().
+This project is to create a GUI and Simulink model by using MPC (Model Predictive Control) for a hybrid energy storage system consisting Battery and Ultra-capacitor. THe work is published with the title of "Optimization of battery energy storage system with super-capacitor for renewable energy applications" on Power Electronics and ECCE Asia (ICPE & ECCE), 8th IEEE International Conference. The paper is accessible through IEEE Explorer from [here](http://ieeexplore.ieee.org.ezlibproxy1.ntu.edu.sg/xpl/articleDetails.jsp?tp=&arnumber=5944515&queryText%3Dhu+xiaolei).
 
 ## How to run the main GUI
 
@@ -39,7 +39,65 @@ The GUI contains 3 main parts.
 	*remove will remove the selected item from the plot list which is not recoverable.
  
 ```bash
-tree -d
+tree
+
+.
+├── config
+│   └── StepAndPluseSimT10s.txt
+├── lib
+│   ├── actxlicense.m
+│   ├── AtriPair.m
+│   ├── InvPICal.m
+│   ├── ParamMg.m
+│   ├── ParamStore.m
+│   ├── PECommon.mdl
+│   ├── pic
+│   │   ├── Battery_Service.jpg
+│   │   ├── BiBuckBoost.jpg
+│   │   ├── Capacitor.png
+│   │   ├── ctrl.gif
+│   │   ├── ctrl.jpg
+│   │   ├── HP.jpg
+│   │   ├── IGBT.jpg
+│   │   ├── Load_Motor.jpg
+│   │   ├── SuperCapacitor.jpg
+│   │   ├── ZSource.png
+│   │   └── ZSource_impedence.png
+│   ├── PiConCal.m
+│   ├── PiConCalV2.m
+│   ├── polesPlacement.asv
+│   ├── polesPlacement.m
+│   ├── polesPlacementv2.m
+│   ├── polesPlacementv3.m
+│   ├── slblocks.m
+│   ├── test.m
+│   ├── test.xml
+│   ├── untitled.mdl
+│   └── xml2struct.m
+├── Mdl_Param.xml
+├── modaldlg.fig
+├── modaldlg.m
+├── PowerController.mdl
+├── README.md
+├── Savedlg.fig
+├── Savedlg.m
+├── simBB.fig
+├── simBB.m
+├── Simdlg.fig
+├── Simdlg.m
+├── SimRs
+│   └── This-folder-shoud-be-empty.txt
+├── SUMMARY.md
+└── utils
+    ├── FFTCal.m
+    ├── FFTCalMain.asv
+    ├── FFTCalMain.fig
+    ├── FFTCalMain.m
+    ├── FFTPlot.m
+    ├── lb.fig
+    └── lb.m
+
+5 directories, 49 files
 
 
 ```

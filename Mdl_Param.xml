@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Model_Parameter version="2.0">
+   <ParamStore1 Des="Default">
+      <Param1 BESSMaxPower="100000"/>
+      <Param2 CurOptTime="1"/>
+      <Param3 DCCap="0.47"/>
+      <Param4 DCVref="400"/>
+      <Param5 DCfreq="10"/>
+      <Param6 ESEBatteryV="300"/>
+      <Param7 ESESCUV="300"/>
+      <Param8 ESESCLV="200"/>
+      <Param9 ESESCMargin="0.1"/>
+      <Param10 ConFs="10000"/>
+      <Param11 ConBLs="0.01"/>
+      <Param12 ConBCurLmt="500"/>
+      <Param13 ConSCLs="0.001"/>
+      <Param14 ConSCCurLmt="1200"/>
+      <Param15 StopTime="10"/>
+      <Param16 DCfs="1000"/>
+   </ParamStore1>
+   <ParamStore2 Des="Param Saved at_2011_1_6_13_1">
+      <Param1 BESSMaxPower="100000"/>
+      <Param2 CurOptTime="1"/>
+      <Param3 DCCap="0.47"/>
+      <Param4 DCVref="400"/>
+      <Param5 DCfreq="10"/>
+      <Param6 ESEBatteryV="300"/>
+      <Param7 ESESCUV="300"/>
+      <Param8 ESESCLV="200"/>
+      <Param9 ESESCMargin="0.1"/>
+      <Param10 ConFs="10000"/>
+      <Param11 ConBLs="0.01"/>
+      <Param12 ConBCurLmt="500"/>
+      <Param13 ConSCLs="0.001"/>
+      <Param14 ConSCCurLmt="1200"/>
+      <Param15 StopTime="30"/>
+      <Param16 DCfs="1000"/>
+   </ParamStore2>
+   <ParamStore3 Des="Param Saved at_2011_1_6_18_42">
+      <Param1 BESSMaxPower="100000"/>
+      <Param2 CurOptTime="1"/>
+      <Param3 DCCap="0.47"/>
+      <Param4 DCVref="400"/>
+      <Param5 DCfreq="10"/>
+      <Param6 ESEBatteryV="300"/>
+      <Param7 ESESCUV="250"/>
+      <Param8 ESESCLV="200"/>
+      <Param9 ESESCMargin="0.1"/>
+      <Param10 ConFs="10000"/>
+      <Param11 ConBLs="0.01"/>
+      <Param12 ConBCurLmt="500"/>
+      <Param13 ConSCLs="0.001"/>
+      <Param14 ConSCCurLmt="1200"/>
+      <Param15 StopTime="10"/>
+      <Param16 DCfs="1000"/>
+   </ParamStore3>
+</Model_Parameter>

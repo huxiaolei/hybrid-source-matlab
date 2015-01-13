@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Model_Parameter version="2.0">
+   <ParamStore1 Des="The First Param1">
+      <Param1 Name="1.89298765678876590876543212e3"/>
+      <Param2 Name1="2"/>
+   </ParamStore1>
+   <ParamStore2 Des="The second Param2">
+      <Param1 Name="4"/>
+      <Param2 Name1="5"/>
+   </ParamStore2>
+</Model_Parameter>

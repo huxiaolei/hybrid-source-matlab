@@ -1,0 +1,8 @@
+#This is a gitignore file to indicate which file which be ignored by git
+#@2015 Jan. 5th
+#Power by Hu Xiaolei
+
+#*.mat the files under ./SimRs should be ignored.
+[Ss][Ii][Mm][Rr][Ss]/*.mat
+
+#doc should be excluded from compilation but not from git

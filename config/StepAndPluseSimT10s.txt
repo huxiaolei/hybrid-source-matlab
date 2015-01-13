@@ -1,0 +1,6 @@
+Step;InitP=0kw;FinalP=100kw;Time=1s
+Step;InitP=100kw;FinalP=-100kw;Time=1s
+Step;InitP=-100kw;FinalP=100kw;Time=1s
+Pluse;MaxP=100kw;MinP=-100kw;Ts=3s
+Pluse;MaxP=100kw;MinP=-100kw;Ts=2s
+Pluse;MaxP=100kw;MinP=-100kw;Ts=1s

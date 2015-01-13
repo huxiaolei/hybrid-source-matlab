@@ -1,6 +1,6 @@
 # Readme
 
-This project is to create a GUI and Simulink model by using MPC (Model Predictive Control) for a hybrid energy storage system consisting Battery and Ultra-capacitor. THe work is published with the title of "Optimization of battery energy storage system with super-capacitor for renewable energy applications" on Power Electronics and ECCE Asia (ICPE & ECCE), 8th IEEE International Conference. The paper is accessible through IEEE Explorer from [here](http://ieeexplore.ieee.org.ezlibproxy1.ntu.edu.sg/xpl/articleDetails.jsp?tp=&arnumber=5944515&queryText%3Dhu+xiaolei).
+This project is to create a GUI and Simulink model by using MPC (Model Predictive Control) for a hybrid energy storage system consisting Battery and Ultra-capacitor. THe work is published with the title of "Optimization of battery energy storage system with super-capacitor for renewable energy applications" on 2011 IEEE 8th International Conference on Power Electronics and ECCE Asia (ICPE & ECCE). The paper is accessible through IEEE Xplore Digital Library, please click [here](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5944515&queryText%3DOptimization+of+battery+energy+storage+system+with+super-capacitor+for+renewable+energy+applications).
 
 ## How to run the main GUI
 

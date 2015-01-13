@@ -36,7 +36,7 @@ The GUI contains 3 main parts.
 	* Plot section will plot the simulation results.
 	* Five selectable items are on the right hand side. You may plot them simultaneously by click once. Say if you want to plot "DC Voltage" and "Battery Current" on the same page, simply click "DC voltage" and "Battery Current" will choose those two items. Then click "Plot" button will show the plot.
 	* "save" can save a plot while "load" button may load a pre-saved Plot.
-	*remove will remove the selected item from the plot list which is not recoverable.
+	* remove will remove the selected item from the plot list which is not recoverable.
  
 ```bash
 tree
